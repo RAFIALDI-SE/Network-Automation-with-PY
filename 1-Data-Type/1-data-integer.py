@@ -1,0 +1,26 @@
+# Perhitungan dasar
+print(1 + 2)
+print(type (1 + 2))
+print(4 - 2)
+print(type (4 - 2))
+print(2 * 2)
+print(type (2 * 2))
+print(4 / 2)
+print(type (4 / 2))
+print(5 / 2)
+print(type (5 / 2))
+# Floor (Pembulatan ke bawah)
+print(5 // 2)
+print(type (5 // 2))
+# Prioritas Perhitungan
+print(2 + 2 * 7 * 6 + 4)
+print(type (2 + 2 * 7 * 6 + 4))
+print((2 + 2) * 7 * (6 + 4))
+print(type ((2 + 2) * 7 * (6 + 4)))
+# Modulus 
+print(3 % 2)
+print(type (3 % 2))
+# Pangkat 
+print(2**3)
+print(type (2**3))
+# print(4 - 5)
